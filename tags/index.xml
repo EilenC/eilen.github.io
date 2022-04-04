@@ -6,31 +6,22 @@
     <description>Recent content in Tags on EilenC Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate><atom:link href="https://eilenc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 19:37:56 +0800</lastBuildDate><atom:link href="https://eilenc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>preview</title>
-      <link>https://eilenc.github.io/tags/preview/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      <title>benchmark</title>
+      <link>https://eilenc.github.io/tags/benchmark/</link>
+      <pubDate>Mon, 04 Apr 2022 19:37:56 +0800</pubDate>
       
-      <guid>https://eilenc.github.io/tags/preview/</guid>
+      <guid>https://eilenc.github.io/tags/benchmark/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag-3</title>
-      <link>https://eilenc.github.io/tags/tag-3/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      <title>golang</title>
+      <link>https://eilenc.github.io/tags/golang/</link>
+      <pubDate>Mon, 04 Apr 2022 19:37:56 +0800</pubDate>
       
-      <guid>https://eilenc.github.io/tags/tag-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme preview</title>
-      <link>https://eilenc.github.io/tags/theme-preview/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://eilenc.github.io/tags/theme-preview/</guid>
+      <guid>https://eilenc.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
@@ -40,6 +31,15 @@
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>https://eilenc.github.io/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preview</title>
+      <link>https://eilenc.github.io/tags/preview/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>https://eilenc.github.io/tags/preview/</guid>
       <description></description>
     </item>
     
