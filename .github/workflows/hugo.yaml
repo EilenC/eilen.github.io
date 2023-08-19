@@ -27,7 +27,8 @@ concurrency:
 defaults:
   run:
     shell: bash
-
+env:
+  HUGO_VERSION: 0.96.0
 jobs:
   # Build job
   build:
