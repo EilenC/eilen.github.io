@@ -1,5 +1,5 @@
 ---
-title: "远控应用使用心得与总结"
+title: "远控应用使用优缺点总结"
 date: 2023-08-19T16:34:52+08:00
 draft: false
 tags: ["Parsec","向日葵","Teamviewer","AnyDesk","JumpDesktop"]
