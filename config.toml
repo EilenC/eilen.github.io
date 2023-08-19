@@ -1,5 +1,5 @@
 baseURL = "http://localhost:1313/"
-languageCode = "en"
+languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "EilenC"
 preserveTaxonomyNames = true
@@ -30,28 +30,45 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
 [[menu.main]]             # config your menu              # 配置目录
   name = "主页"
-  weight = 10
-  identifier = "home"
+  weight = 1
   url = "/"
 [[menu.main]]
   name = "归档"
-  weight = 20
-  identifier = "archives"
-  url = "/post/"
+  weight = 2
+  url = "/archives/"
 [[menu.main]]
   name = "标签"
-  weight = 30
-  identifier = "tags"
+  weight = 3
   url = "/tags/"
 [[menu.main]]
   name = "分类"
-  weight = 40
-  identifier = "categories"
+  weight = 4
   url = "/categories/"
 [[menu.main]]
   name = "About"
+  weight = 5
   url = "/about/"
+[[menu.main]]
+  name = "Search"
+  weight = 6
+  url = "/search/"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
 dateFormat = "2006-01-02"
 dateTimeFormat = "2006-01-02 15:04"
+ShowShareButtons = true #显示文章分享按钮
+ShowReadingTime = true # 显示大致阅读时间
+ShowToc = true #顶部目录
+TocOpen = true #始终打开顶部目录
+ShowCodeCopyButtons = true #显示代码去快复制按钮
+PagePrevText = "Prev"
+PageNextText = "Next"
+
+[params.homeInfoParams]
+Content = "# Hi there👋\n\n- 🌱 I’m currently learning programming."
+Describe = "#### Languages & Tools"
+Icons = "https://skillicons.dev/icons?i=go,php,kotlin,java,spring,tensorflow,pytorch,rust,docker,haskell,kubernetes,zig&theme=light"
+IconSize = "40px"
