@@ -69,6 +69,7 @@ contentCopyright: '<a rel="license noopener" href="https://creativecommons.org/l
 - 流畅度受网络环境影响
 - 订阅费用
 - 服务器在国外,容易出现连接不上
+- 免费版本有连接时长限制,超时后需要重新连接
 
 ### [JumpDesktop](https://www.jumpdesktop.com/) [Windows,MacOS]
 
