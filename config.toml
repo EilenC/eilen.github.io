@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313/"
-languageCode = "zh-cn"
-defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
+languageCode = "zh"
+defaultContentLanguage = "zh"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "EilenC"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
@@ -61,6 +61,7 @@ dateFormat = "2006-01-02"
 dateTimeFormat = "2006-01-02 15:04"
 ShowShareButtons = true #显示文章分享按钮
 ShowReadingTime = true # 显示大致阅读时间
+ShowWordCount = true # 显示字数
 ShowToc = true #顶部目录
 TocOpen = true #始终打开顶部目录
 ShowCodeCopyButtons = true #显示代码去快复制按钮
