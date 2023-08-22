@@ -66,3 +66,11 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+
+.PageTotal {
+    margin:auto;
+    text-align: center;
+    color: var(--secondary);
+    font-size: 16px;
+}

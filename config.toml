@@ -19,7 +19,6 @@ paginate = 5                                              # 首页每页显示�
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
-
 [author]                  # essential                     # 必需
   name = "EilenC"
 
@@ -56,6 +55,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
+
 [params]
 dateFormat = "2006-01-02"
 dateTimeFormat = "2006-01-02 15:04"
@@ -65,8 +65,9 @@ ShowWordCount = true # 显示字数
 ShowToc = true #顶部目录
 TocOpen = true #始终打开顶部目录
 ShowCodeCopyButtons = true #显示代码去快复制按钮
-PagePrevText = "Prev"
-PageNextText = "Next"
+comments = true
+displayFullLangName = true
+contentCopyright = "<a rel=\"license noopener\" href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh\" target=\"_blank\">署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)</a>"
 
 [params.homeInfoParams]
 Content = "# Hi there👋\n\n- 🌱 I’m currently learning programming."

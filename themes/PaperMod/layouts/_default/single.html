@@ -36,6 +36,13 @@
   {{- end }}
 
   <footer class="post-footer">
+    {{ $copyright := site.Params.ContentCopyright }}
+    {{ if and .Params.Copyright (ne .Params.Copyright "") }}
+    {{ $copyright = .Params.Copyright }}
+    {{ end }}
+    <div class="post-footer-copyright">
+      {{ $copyright | safeHTML}}
+    </div>
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}

@@ -6,7 +6,7 @@ draft: false
 tags: ["golang", "benchmark"]
 categories: ["golang"]
 author: "EilenC"
-contentCopyright: '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)</a>'
+#copyright: '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank">我是自定义文章版权声明</a>'
 ---
 
 > 对字符串切片进行去重 不同方式的基准测试
