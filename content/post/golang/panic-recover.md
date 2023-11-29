@@ -1,5 +1,5 @@
 ---
-title: "Panic Recover 笔记"
+title: "Golang Panic Recover 笔记"
 date: 2023-11-30T01:20:40+08:00
 draft: false
 tags: ["golang"]
@@ -8,9 +8,6 @@ author: "EilenC"
 ---
 
 > Golang func使用的一些笔记
-
-# Golang panic recover 笔记
-
 
 ## Panic 异常
 
