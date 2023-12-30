@@ -72,5 +72,5 @@ contentCopyright = "<a rel=\"license noopener\" href=\"https://creativecommons.o
 [params.homeInfoParams]
 Content = "# Hi there👋\n\n- 🌱 I’m currently learning programming."
 Describe = "#### Languages & Tools"
-Icons = "https://skillicons.dev/icons?i=go,php,kotlin,java,spring,tensorflow,pytorch,rust,docker,haskell,kubernetes,zig&theme=light"
+Icons = "https://skillicons.dev/icons?i=go,php,rust,zig,mysql,postgres,redis,linux,docker,kubernetes&theme=light"
 IconSize = "40px"
