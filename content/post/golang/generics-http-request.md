@@ -1,5 +1,5 @@
 ---
-title: "generics Http Request"
+title: "Generics Http Request"
 date: 2023-12-18T23:54:36+08:00
 draft: false
 tags: ["golang"]
